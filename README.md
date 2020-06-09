@@ -1,4 +1,4 @@
-#Koala
+# Koala
 **Koala** is an energy control and monitoring project developed to interface with air conditioners, but can also be used for other type of loads that do not exceed 20 amps of currente consumption.
 
 [Hardware](https://github.com/carvalhodemagno/Koala/0_Hardware) is an ESP8266 & MCP39F521 baseboard 
